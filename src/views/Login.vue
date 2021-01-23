@@ -6,7 +6,7 @@
           <a href="/">
             <img src="../assets/logo.png"
                  alt="logo" class="logo">
-            <span class="title">协聘管理后台</span>
+            <span class="title">CxAdmin管理后台</span>
           </a>
         </div>
         <div class="desc">
@@ -145,8 +145,8 @@
           }
 
           .title {
-            font-size: 33px;
-            color: rgba(0, 0, 0, .85);
+            font-size: 32px;
+            color: rgba(0, 0, 0, .55);
             font-family: Avenir, Helvetica Neue, Arial, Helvetica, sans-serif;
             font-weight: 600;
             position: relative;
